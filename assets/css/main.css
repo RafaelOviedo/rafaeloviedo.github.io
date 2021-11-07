@@ -1382,7 +1382,7 @@ html {
 }
 
 body {
-    background-image: url(https://images.wallpaperscraft.com/image/refueling_night_dark_151920_2560x1440.jpg);
+    background-image: url('https://www.teahub.io/photos/full/257-2578594_bright-black-neon-background.jpg') !important;
     /* url("images/bg.jpg"); */
     background-repeat: repeat, no-repeat;
     background-size: auto, 100% 100%;
