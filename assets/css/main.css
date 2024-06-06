@@ -1382,10 +1382,10 @@ html {
 }
 
 body {
-    background-image: url('https://www.teahub.io/photos/full/257-2578594_bright-black-neon-background.jpg') !important;
+    background-image: url('https://emeritus.org/in/wp-content/uploads/sites/3/2023/02/pexels-myburgh-roux-1102797-1024x683.jpg.webp') !important;
     /* url("images/bg.jpg"); */
     background-repeat: repeat, no-repeat;
-    background-size: auto, 100% 100%;
+    background-size: cover;
     /* background-attachment: fixed; */
     overflow-y: scroll;
 }
